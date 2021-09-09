@@ -6,7 +6,7 @@ To get the Node server running locally:
 
 * Clone this repo
 * npm install to install all required dependencies
-* replace the environment variables in nodemon.json
+* replace the environment variables in nodemon.json /replace credentials in .env file (do this)
 * npm start to start the local server
 
-By default the local server will start on port 3002
+By default the local server will start on port 3000
